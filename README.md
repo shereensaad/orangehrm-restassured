@@ -62,7 +62,7 @@ git --version    # Git
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/orangehrm-restassured.git
+git clone https://github.com/shereensaad/orangehrm-restassured.git
 cd orangehrm-restassured
 ```
 
